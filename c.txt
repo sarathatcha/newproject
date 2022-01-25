@@ -1,2 +1,6 @@
 hi this is third commit
+<<<<<<< HEAD
 edit from CLI
+=======
+edit from github
+>>>>>>> 50884f9736e64c551b4247a21ade43b932e6c3e1
