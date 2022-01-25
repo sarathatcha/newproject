@@ -1,2 +1,6 @@
 e file
+<<<<<<< HEAD
 new edit from CLI 
+=======
+edited
+>>>>>>> 4f2f757dae7ce485a48d0b9602aa75d54463ab71
