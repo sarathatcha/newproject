@@ -1,1 +1,2 @@
 Hi This is github push test!
+edit from CLI
