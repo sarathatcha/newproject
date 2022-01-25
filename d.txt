@@ -1,2 +1,6 @@
 This file is added in github
+<<<<<<< HEAD
 new edit from CLI
+=======
+New edit from github
+>>>>>>> 4f98cb659a36507eb9f96f103e2ba4ec8c487d93
