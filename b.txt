@@ -1,2 +1,3 @@
 Hi this is second commit
 edit from github
+edit from CLI
