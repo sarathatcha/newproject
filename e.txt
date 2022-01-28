@@ -2,3 +2,4 @@ e file
 new edit from CLI 
 edited
 test new line
+add
