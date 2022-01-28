@@ -1,6 +1,4 @@
 Hi This is github push test!
-<<<<<<< HEAD
 edit from CLI
-=======
 edit from github
->>>>>>> a4fcad8fea48775ee9a068dfc7d9a9e21db0b157
+
